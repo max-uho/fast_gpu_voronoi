@@ -1,4 +1,4 @@
-A Fork of https://github.com/maciejczyzewski/fast_gpu_voronoi
+A Fork of https://github.com/maciejczyzewski/fast_gpu_voronoi for my modern Mac M1
 
 
 [**Demo (Google Colab)**](https://colab.research.google.com/drive/1feoho8M_1a4tOpYFDPkqDVJeWHwdhJox?usp=sharing)
