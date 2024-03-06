@@ -20,28 +20,7 @@ REQUIRES_PYTHON = '>=3.1.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'contourpy==1.2.0',
-    'cycler==0.12.1',
-    'docopt==0.6.2',
-    'fast-gpu-voronoi==0.0.3',
-    'fast-gpu-voronoi==0.0.3',
-    'fonttools==4.49.0',
-    'imageio==2.34.0',
-    'kiwisolver==1.4.5',
-    'matplotlib==3.8.3',
-    'numpy==1.26.4',
-    'packaging==23.2',
-    'pillow==10.2.0',
-    'pip==24.0',
-    'platformdirs==4.2.0',
-    'pyopencl==2024.1',
-    'pyparsing==3.1.2',
-    'python-dateutil==2.9.0.post0',
-    'pytools==2023.1.1',
-    'scipy==1.12.0',
-    'setuptools==65.5.0',
-    'six==1.16.0',
-    'tqdm==4.66.2'
+
 ]
 
 # What packages are optional?
