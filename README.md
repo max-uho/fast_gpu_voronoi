@@ -1,3 +1,6 @@
+A Fork of https://github.com/maciejczyzewski/fast_gpu_voronoi
+
+
 [**Demo (Google Colab)**](https://colab.research.google.com/drive/1feoho8M_1a4tOpYFDPkqDVJeWHwdhJox?usp=sharing)
 
 <div align="center">
@@ -57,7 +60,7 @@
 Project can be installed using `pip`:
 
 ```bash
-$ pip3 install fast_gpu_voronoi
+$ pip install -e git+git://github.com/max-uho/fast_gpu_voronoi.git@master#egg=fast_gpu_voronoi
 ```
 
 Here is a small example to whet your appetite:
